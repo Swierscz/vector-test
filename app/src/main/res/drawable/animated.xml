@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+
+    <animated-vector xmlns:aapt="http://schemas.android.com/aapt" xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <aapt:attr name="android:drawable">
+
+
+    <vector android:name="vector" android:viewportHeight="24" android:viewportWidth="24" android:height="24dp" android:width="24dp">
+
+    <path android:name="path_3" android:strokeWidth="1" android:fillColor="#000000" android:pathData="M 24 24 L 12.117 24 L 7.836 4.842 L 5.473 4.842 L 5.473 24 L 0 24 L 0 0 L 11.772 0 L 16.14 19.158 L 18.55 19.158 L 18.55 0 L 24 0 L 24 24 Z"/>
+
+</vector>
+
+</aapt:attr>
+
+
+    <target android:name="path_3">
+
+
+    <aapt:attr name="android:animation">
+
+    <objectAnimator android:interpolator="@android:interpolator/fast_out_slow_in" android:valueType="pathType" android:valueTo="M 16.197 15.572 L 16.158 6 L 3.586 6 L 3.586 6.832 L 10.365 6.936 L 9.852 8.671 L 0.67 8.636 L 0.67 9.538 L 7.527 9.642 L 6.857 12 L 8.985 12 L 8.591 13.249 L 2.956 13.249 L 2.956 14.116 L 6.227 14.185 L 5.675 16.093 L 5.123 18 L 8.67 18 L 11.429 8.393 L 11.728 8.393 L 12.028 8.393 L 12.327 8.393 L 12.627 8.393 L 12.926 8.393 L 12.926 18 L 20.572 18 L 24 6 L 20.493 6 L 20.493 6 L 17.734 15.572 L 16.965 15.572 L 16.197 15.572 M 20.572 18 L 12.926 18 L 20.572 18 M 8.67 18 L 8.67 18 L 5.123 18 L 8.67 18 M 0 14.012 L 1.734 14.046 L 1.734 13.249 L 0 13.249 L 0 14.012 L 0 14.012" android:valueFrom="M 16.14 19.158 L 11.772 0 L 0 0 L 0 24 L 5.473 24 L 5.473 22.404 L 5.473 20.807 L 5.473 19.21 L 5.473 17.614 L 5.473 16.017 L 5.473 14.421 L 5.473 13.623 L 5.473 12.825 L 5.473 12.292 L 5.473 11.76 L 5.473 11.228 L 5.473 9.632 L 5.473 9.099 L 5.473 8.567 L 5.473 8.035 L 5.473 7.237 L 5.473 6.439 L 5.473 4.842 L 7.836 4.842 L 12.117 24 L 24 24 L 24 24 L 24 0 L 18.55 0 L 18.55 9.579 L 18.55 19.158 L 16.14 19.158 M 12.926 18 L 12.926 18 L 12.926 18 M 5.123 18 L 5.123 18 L 5.123 18 L 5.123 18 M 0.873 13.639 L 0.873 13.639 L 0.873 13.639 L 0.873 13.639 L 0.873 13.639 L 0.873 13.639" android:duration="5000" android:propertyName="pathData"/>
+
+</aapt:attr>
+
+</target>
+
+</animated-vector>
